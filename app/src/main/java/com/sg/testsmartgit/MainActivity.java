@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("cxkvkvklvklklv");
+        System.out.println("cxkvkvkbglvklklv");
+        System.out.println("cxkvkvkghhglvklklv");
     }
 
     @Override
