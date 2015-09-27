@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("cxkvkvklvklklv");
         System.out.println("cxkvkvkbglvklklv");
         System.out.println("cxkvkvkghhglvklklv");
+
+        System.out.println("dzdldl");
     }
 
     @Override
